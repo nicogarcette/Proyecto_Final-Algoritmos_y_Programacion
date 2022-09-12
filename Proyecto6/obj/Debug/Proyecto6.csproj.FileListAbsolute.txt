@@ -1,0 +1,30 @@
+C:\Users\nico\Desktop\algoritmos2022\TrabajoIntegrador\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\nico\Desktop\algoritmos2022\TrabajoIntegrador\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\nico\Desktop\algoritmos2022\TrabajoIntegrador\Proyecto6\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\nico\Desktop\algoritmos2022\TrabajoIntegrador\Proyecto6\Proyecto6\obj\Debug\Proyecto6.csprojResolveAssemblyReference.cache
+C:\Users\nico\Desktop\algoritmos2022\TrabajoIntegrador\Proyecto6\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\nico\Desktop\algoritmos2022\TrabajoIntegrador\Proyecto6\Proyecto6\obj\Debug\Proyecto6.pdb
+C:\Users\lauty\Documents\SharpDevelop Projects\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\lauty\Documents\SharpDevelop Projects\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\lauty\Documents\SharpDevelop Projects\Proyecto6\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\lauty\Documents\SharpDevelop Projects\Proyecto6\Proyecto6\obj\Debug\Proyecto6.csprojResolveAssemblyReference.cache
+C:\Users\lauty\Documents\SharpDevelop Projects\Proyecto6\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\lauty\Documents\SharpDevelop Projects\Proyecto6\Proyecto6\obj\Debug\Proyecto6.pdb
+C:\Users\nico\Desktop\algoritmos2022\Proyecto66\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\nico\Desktop\algoritmos2022\Proyecto66\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\nico\Desktop\algoritmos2022\Proyecto66\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\nico\Desktop\algoritmos2022\Proyecto66\Proyecto6\obj\Debug\Proyecto6.csprojResolveAssemblyReference.cache
+C:\Users\nico\Desktop\algoritmos2022\Proyecto66\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\nico\Desktop\algoritmos2022\Proyecto66\Proyecto6\obj\Debug\Proyecto6.pdb
+C:\Users\Alumnos-UNAJ\Desktop\algoritmos2022\Proyecto66\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\Alumnos-UNAJ\Desktop\algoritmos2022\Proyecto66\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\Alumnos-UNAJ\Desktop\algoritmos2022\Proyecto66\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\Alumnos-UNAJ\Desktop\algoritmos2022\Proyecto66\Proyecto6\obj\Debug\Proyecto6.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-UNAJ\Desktop\algoritmos2022\Proyecto66\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\Alumnos-UNAJ\Desktop\algoritmos2022\Proyecto66\Proyecto6\obj\Debug\Proyecto6.pdb
+C:\Users\nico\Documents\Unaj\algoritmos2022\Proyecto6-Garcette-Vargas\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\nico\Documents\Unaj\algoritmos2022\Proyecto6-Garcette-Vargas\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\nico\Documents\Unaj\algoritmos2022\Proyecto6-Garcette-Vargas\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\nico\Documents\Unaj\algoritmos2022\Proyecto6-Garcette-Vargas\Proyecto6\obj\Debug\Proyecto6.csprojResolveAssemblyReference.cache
+C:\Users\nico\Documents\Unaj\algoritmos2022\Proyecto6-Garcette-Vargas\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\nico\Documents\Unaj\algoritmos2022\Proyecto6-Garcette-Vargas\Proyecto6\obj\Debug\Proyecto6.pdb
